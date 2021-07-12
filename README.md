@@ -1,1 +1,1 @@
-# ngo-maintenance
+This program is based on NGO Maintenance list.It adds the members, display,remove and update the members. In maintenance there requires a members ID which should be unique to identify. I had included that also. I had used the concept of file handling to execute the desired output.Additionally this program is user friendly to understand.
